@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.env
+*.pyc
+.DS_Store
+outputs/
+.streamlit/secrets.toml
+node_modules/
+dist/
+*.tsbuildinfo
+.pytest_cache/
+*.log
+submission.zip
+

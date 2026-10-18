@@ -1,0 +1,11 @@
+# Direct versions from the assigned tutorial uv.lock. Full tested environment: requirements-lock.txt
+-c tutorial-constraints.txt
+fastapi==0.123.7
+httpx==0.28.1
+langchain-openai==1.1.0
+langchain==1.1.0
+langgraph==1.0.4
+pydantic==2.12.5
+python-dotenv==1.2.1
+uvicorn==0.38.0
+yfinance==0.2.66

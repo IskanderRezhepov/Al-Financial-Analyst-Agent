@@ -1,0 +1,550 @@
+{
+  "ticker": "MSFT",
+  "provider": "ollama",
+  "generated_at_utc": "2026-10-18T23:37:58.931693+00:00",
+  "snapshot": {
+    "price": {
+      "ticker": "MSFT",
+      "source": "https://finance.yahoo.com/quote/MSFT/",
+      "retrieved_at_utc": "2026-10-18T23:37:57.450273+00:00",
+      "data": {
+        "close": 529.0499877929688,
+        "price_date": "2026-10-16T00:00:00-04:00",
+        "currency": "USD",
+        "basis": "Latest available daily close; not a live executable quote."
+      }
+    },
+    "overview": {
+      "ticker": "MSFT",
+      "source": "https://finance.yahoo.com/quote/MSFT/",
+      "retrieved_at_utc": "2026-10-18T23:37:57.634698+00:00",
+      "data": {
+        "shortName": "Microsoft Corporation",
+        "longName": "Microsoft Corporation",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "country": "United States",
+        "longBusinessSummary": "Microsoft Corporation, a technology company, develops and supports a portfolio of technology solutions for individuals and businesses worldwide. Its products include operating systems, server applications, business solution applications, software development tools, desktop and server management tools, and video games; and devices, such as PCs, tablets, gaming and entertainment consoles, other intelligent devices, and related accessories. The company's Productivity and Business Processes segment offers Microsoft 365 Commercial, Enterprise Mobility + Security, Power BI, Exchange, SharePoint, Microsoft Teams, Microsoft 365 Security and Compliance, Microsoft 365 Copilot, and Windows Commercial on-premises and Office licensed on-premises. This segment also provides Microsoft 365 Consumer products and cloud services; LinkedIn, including talent solutions, marketing solutions, subscriptions, and sales solutions; Dynamics 365, a set of cloud-based applications; and on-premises ERP and CRM applications. Its Intelligent Cloud segment offers server products and cloud services; cloud and AI consumption-based services, GitHub cloud services, health and life sciences cloud services, as well as virtual desktop offerings, and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related client access licenses; and enterprise support services, industry solutions, Microsoft partner network, and learning experience. The company's More Personal Computing segment provides Windows OEM licensing and devices comprising Surface and PC accessories; XBOX hardware, and XBOX first- and third-party content and services; XBOX Game Pass and other subscriptions; XBOX Cloud Gaming, advertising, and other cloud services; and search advertising consisting of Bing, Copilot, Microsoft News, Microsoft Edge, and third-party affiliates. It sells its products through partners and retail networks. The company was founded in 1975 and is headquartered in Redmond, Washington.",
+        "currency": "USD",
+        "financialCurrency": "USD",
+        "marketCap": 3928485003264,
+        "totalRevenue": 331839012864,
+        "revenueGrowth": 0.177,
+        "profitMargins": 0.40305,
+        "operatingMargins": 0.45111,
+        "totalCash": 76842999808,
+        "totalDebt": 128812998656,
+        "currentRatio": 1.23,
+        "debtToEquity": 29.118,
+        "trailingPE": 29.473536,
+        "forwardPE": 22.302853,
+        "beta": 1.099,
+        "operatingCashflow": 182934994944,
+        "freeCashflow": 16545500160,
+        "mostRecentQuarter": "2026-06-30T00:00:00+00:00",
+        "lastFiscalYearEnd": "2026-06-30T00:00:00+00:00",
+        "regularMarketTime": "2026-10-16T20:00:01+00:00"
+      }
+    },
+    "balance_sheet": {
+      "ticker": "MSFT",
+      "source": "https://finance.yahoo.com/quote/MSFT/balance-sheet/",
+      "retrieved_at_utc": "2026-10-18T23:37:57.844642+00:00",
+      "data": {
+        "annual_periods": {
+          "2026-06-30": {
+            "Ordinary Shares Number": 7428434704.0,
+            "Share Issued": 7428434704.0,
+            "Net Debt": 19359000000.0,
+            "Total Debt": 56826000000.0,
+            "Tangible Book Value": 304127000000.0,
+            "Invested Capital": 482681000000.0,
+            "Working Capital": 38885000000.0,
+            "Net Tangible Assets": 304127000000.0,
+            "Capital Lease Obligations": 16532000000.0,
+            "Common Stock Equity": 442387000000.0,
+            "Total Capitalization": 473454000000.0,
+            "Total Equity Gross Minority Interest": 442387000000.0,
+            "Stockholders Equity": 442387000000.0,
+            "Gains Losses Not Affecting Retained Earnings": -3284000000.0,
+            "Other Equity Adjustments": -3284000000.0,
+            "Retained Earnings": 328265000000.0,
+            "Capital Stock": 117406000000.0,
+            "Common Stock": 117406000000.0,
+            "Total Liabilities Net Minority Interest": 315989000000.0,
+            "Total Non Current Liabilities Net Minority Interest": 147164000000.0,
+            "Other Non Current Liabilities": 65117000000.0,
+            "Tradeand Other Payables Non Current": 28647000000.0,
+            "Non Current Deferred Liabilities": 5801000000.0,
+            "Non Current Deferred Revenue": 2747000000.0,
+            "Non Current Deferred Taxes Liabilities": 3054000000.0,
+            "Long Term Debt And Capital Lease Obligation": 47599000000.0,
+            "Long Term Capital Lease Obligation": 16532000000.0,
+            "Long Term Debt": 31067000000.0,
+            "Current Liabilities": 168825000000.0,
+            "Other Current Liabilities": 26738000000.0,
+            "Current Deferred Liabilities": 72965000000.0,
+            "Current Deferred Revenue": 72965000000.0,
+            "Current Debt And Capital Lease Obligation": 9227000000.0,
+            "Current Debt": 9227000000.0,
+            "Other Current Borrowings": null,
+            "Commercial Paper": null,
+            "Pensionand Other Post Retirement Benefit Plans Current": 14945000000.0,
+            "Payables And Accrued Expenses": 44950000000.0,
+            "Payables": 44950000000.0,
+            "Total Tax Payable": 2534000000.0,
+            "Income Tax Payable": 2534000000.0,
+            "Accounts Payable": 42416000000.0,
+            "Total Assets": 758376000000.0,
+            "Total Non Current Assets": 550666000000.0,
+            "Other Non Current Assets": 38805000000.0,
+            "Financial Assets": 0.0,
+            "Investments And Advances": 36348000000.0,
+            "Investmentin Financial Assets": 36348000000.0,
+            "Available For Sale Securities": 9108000000.0,
+            "Financial Assets Designatedas Fair Value Through Profitor Loss Total": 27240000000.0,
+            "Long Term Equity Investment": null,
+            "Goodwill And Other Intangible Assets": 138260000000.0,
+            "Other Intangible Assets": 18609000000.0,
+            "Goodwill": 119651000000.0,
+            "Net PPE": 337253000000.0,
+            "Accumulated Depreciation": -118691000000.0,
+            "Gross PPE": 455944000000.0,
+            "Leases": 16348000000.0,
+            "Other Properties": 24177000000.0,
+            "Machinery Furniture Equipment": 222124000000.0,
+            "Buildings And Improvements": 182749000000.0,
+            "Land And Improvements": 10546000000.0,
+            "Properties": 0.0,
+            "Current Assets": 207710000000.0,
+            "Other Current Assets": 48594000000.0,
+            "Hedging Assets Current": 192000000.0,
+            "Inventory": 1397000000.0,
+            "Finished Goods": null,
+            "Work In Process": null,
+            "Raw Materials": null,
+            "Receivables": 80876000000.0,
+            "Accounts Receivable": 80876000000.0,
+            "Allowance For Doubtful Accounts Receivable": -1040000000.0,
+            "Gross Accounts Receivable": 81916000000.0,
+            "Cash Cash Equivalents And Short Term Investments": 76651000000.0,
+            "Other Short Term Investments": 55716000000.0,
+            "Cash And Cash Equivalents": 20935000000.0,
+            "Cash Equivalents": 7876000000.0,
+            "Cash Financial": 13059000000.0
+          },
+          "2025-06-30": {
+            "Ordinary Shares Number": 7434158655.0,
+            "Share Issued": 7434158655.0,
+            "Net Debt": 12909000000.0,
+            "Total Debt": 60588000000.0,
+            "Tangible Book Value": 201366000000.0,
+            "Invested Capital": 386630000000.0,
+            "Working Capital": 49913000000.0,
+            "Net Tangible Assets": 201366000000.0,
+            "Capital Lease Obligations": 17437000000.0,
+            "Common Stock Equity": 343479000000.0,
+            "Total Capitalization": 383631000000.0,
+            "Total Equity Gross Minority Interest": 343479000000.0,
+            "Stockholders Equity": 343479000000.0,
+            "Gains Losses Not Affecting Retained Earnings": -3347000000.0,
+            "Other Equity Adjustments": -3347000000.0,
+            "Retained Earnings": 237731000000.0,
+            "Capital Stock": 109095000000.0,
+            "Common Stock": 109095000000.0,
+            "Total Liabilities Net Minority Interest": 275524000000.0,
+            "Total Non Current Liabilities Net Minority Interest": 134306000000.0,
+            "Other Non Current Liabilities": 45186000000.0,
+            "Tradeand Other Payables Non Current": 25986000000.0,
+            "Non Current Deferred Liabilities": 5545000000.0,
+            "Non Current Deferred Revenue": 2710000000.0,
+            "Non Current Deferred Taxes Liabilities": 2835000000.0,
+            "Long Term Debt And Capital Lease Obligation": 57589000000.0,
+            "Long Term Capital Lease Obligation": 17437000000.0,
+            "Long Term Debt": 40152000000.0,
+            "Current Liabilities": 141218000000.0,
+            "Other Current Liabilities": 25020000000.0,
+            "Current Deferred Liabilities": 64555000000.0,
+            "Current Deferred Revenue": 64555000000.0,
+            "Current Debt And Capital Lease Obligation": 2999000000.0,
+            "Current Debt": 2999000000.0,
+            "Other Current Borrowings": 2999000000.0,
+            "Commercial Paper": 0.0,
+            "Pensionand Other Post Retirement Benefit Plans Current": 13709000000.0,
+            "Payables And Accrued Expenses": 34935000000.0,
+            "Payables": 34935000000.0,
+            "Total Tax Payable": 7211000000.0,
+            "Income Tax Payable": 7211000000.0,
+            "Accounts Payable": 27724000000.0,
+            "Total Assets": 619003000000.0,
+            "Total Non Current Assets": 427872000000.0,
+            "Other Non Current Assets": 40565000000.0,
+            "Financial Assets": 272000000.0,
+            "Investments And Advances": 15133000000.0,
+            "Investmentin Financial Assets": 2460000000.0,
+            "Available For Sale Securities": 2460000000.0,
+            "Financial Assets Designatedas Fair Value Through Profitor Loss Total": null,
+            "Long Term Equity Investment": 12673000000.0,
+            "Goodwill And Other Intangible Assets": 142113000000.0,
+            "Other Intangible Assets": 22604000000.0,
+            "Goodwill": 119509000000.0,
+            "Net PPE": 229789000000.0,
+            "Accumulated Depreciation": -93653000000.0,
+            "Gross PPE": 323442000000.0,
+            "Leases": 12117000000.0,
+            "Other Properties": 24823000000.0,
+            "Machinery Furniture Equipment": 139243000000.0,
+            "Buildings And Improvements": 137921000000.0,
+            "Land And Improvements": 9338000000.0,
+            "Properties": 0.0,
+            "Current Assets": 191131000000.0,
+            "Other Current Assets": 25723000000.0,
+            "Hedging Assets Current": 10000000.0,
+            "Inventory": 938000000.0,
+            "Finished Goods": null,
+            "Work In Process": null,
+            "Raw Materials": null,
+            "Receivables": 69905000000.0,
+            "Accounts Receivable": 69905000000.0,
+            "Allowance For Doubtful Accounts Receivable": -944000000.0,
+            "Gross Accounts Receivable": 70849000000.0,
+            "Cash Cash Equivalents And Short Term Investments": 94555000000.0,
+            "Other Short Term Investments": 64313000000.0,
+            "Cash And Cash Equivalents": 30242000000.0,
+            "Cash Equivalents": 18531000000.0,
+            "Cash Financial": 11711000000.0
+          }
+        },
+        "financial_currency": "USD",
+        "note": "Annual reported statements; missing fields remain unavailable."
+      }
+    },
+    "news": {
+      "ticker": "MSFT",
+      "source": "https://finance.yahoo.com/quote/MSFT/news/",
+      "retrieved_at_utc": "2026-10-18T23:37:58.824522+00:00",
+      "data": []
+    },
+    "history": {
+      "ticker": "MSFT",
+      "source": "https://finance.yahoo.com/quote/MSFT/history/",
+      "retrieved_at_utc": "2026-10-18T23:37:58.931065+00:00",
+      "data": {
+        "prices": [
+          {
+            "date": "2026-07-20T00:00:00-04:00",
+            "close": 401.53411865234375
+          },
+          {
+            "date": "2026-07-21T00:00:00-04:00",
+            "close": 397.00262451171875
+          },
+          {
+            "date": "2026-07-22T00:00:00-04:00",
+            "close": 389.6065673828125
+          },
+          {
+            "date": "2026-07-23T00:00:00-04:00",
+            "close": 380.8630065917969
+          },
+          {
+            "date": "2026-07-24T00:00:00-04:00",
+            "close": 380.9828186035156
+          },
+          {
+            "date": "2026-07-27T00:00:00-04:00",
+            "close": 388.368896484375
+          },
+          {
+            "date": "2026-07-28T00:00:00-04:00",
+            "close": 392.61090087890625
+          },
+          {
+            "date": "2026-07-29T00:00:00-04:00",
+            "close": 389.8061828613281
+          },
+          {
+            "date": "2026-07-30T00:00:00-04:00",
+            "close": 450.2524108886719
+          },
+          {
+            "date": "2026-07-31T00:00:00-04:00",
+            "close": 463.8468017578125
+          },
+          {
+            "date": "2026-08-03T00:00:00-04:00",
+            "close": 486.73370361328125
+          },
+          {
+            "date": "2026-08-04T00:00:00-04:00",
+            "close": 491.884033203125
+          },
+          {
+            "date": "2026-08-05T00:00:00-04:00",
+            "close": 486.5440673828125
+          },
+          {
+            "date": "2026-08-06T00:00:00-04:00",
+            "close": 498.9207458496094
+          },
+          {
+            "date": "2026-08-07T00:00:00-04:00",
+            "close": 499.0505065917969
+          },
+          {
+            "date": "2026-08-10T00:00:00-04:00",
+            "close": 505.109130859375
+          },
+          {
+            "date": "2026-08-11T00:00:00-04:00",
+            "close": 502.86334228515625
+          },
+          {
+            "date": "2026-08-12T00:00:00-04:00",
+            "close": 491.5047302246094
+          },
+          {
+            "date": "2026-08-13T00:00:00-04:00",
+            "close": 495.9463806152344
+          },
+          {
+            "date": "2026-08-14T00:00:00-04:00",
+            "close": 494.4691467285156
+          },
+          {
+            "date": "2026-08-17T00:00:00-04:00",
+            "close": 479.44744873046875
+          },
+          {
+            "date": "2026-08-18T00:00:00-04:00",
+            "close": 480.72503662109375
+          },
+          {
+            "date": "2026-08-19T00:00:00-04:00",
+            "close": 483.3999938964844
+          },
+          {
+            "date": "2026-08-20T00:00:00-04:00",
+            "close": 481.1499938964844
+          },
+          {
+            "date": "2026-08-21T00:00:00-04:00",
+            "close": 483.239990234375
+          },
+          {
+            "date": "2026-08-24T00:00:00-04:00",
+            "close": 487.30999755859375
+          },
+          {
+            "date": "2026-08-25T00:00:00-04:00",
+            "close": 491.7099914550781
+          },
+          {
+            "date": "2026-08-26T00:00:00-04:00",
+            "close": 496.3699951171875
+          },
+          {
+            "date": "2026-08-27T00:00:00-04:00",
+            "close": 505.05999755859375
+          },
+          {
+            "date": "2026-08-28T00:00:00-04:00",
+            "close": 513.530029296875
+          },
+          {
+            "date": "2026-08-31T00:00:00-04:00",
+            "close": 507.2900085449219
+          },
+          {
+            "date": "2026-09-01T00:00:00-04:00",
+            "close": 501.0199890136719
+          },
+          {
+            "date": "2026-09-02T00:00:00-04:00",
+            "close": 496.82000732421875
+          },
+          {
+            "date": "2026-09-03T00:00:00-04:00",
+            "close": 510.1199951171875
+          },
+          {
+            "date": "2026-09-04T00:00:00-04:00",
+            "close": 499.70001220703125
+          },
+          {
+            "date": "2026-09-08T00:00:00-04:00",
+            "close": 493.95001220703125
+          },
+          {
+            "date": "2026-09-09T00:00:00-04:00",
+            "close": 491.6499938964844
+          },
+          {
+            "date": "2026-09-10T00:00:00-04:00",
+            "close": 492.44000244140625
+          },
+          {
+            "date": "2026-09-11T00:00:00-04:00",
+            "close": 495.6300048828125
+          },
+          {
+            "date": "2026-09-14T00:00:00-04:00",
+            "close": 505.4100036621094
+          },
+          {
+            "date": "2026-09-15T00:00:00-04:00",
+            "close": 497.1199951171875
+          },
+          {
+            "date": "2026-09-16T00:00:00-04:00",
+            "close": 490.29998779296875
+          },
+          {
+            "date": "2026-09-17T00:00:00-04:00",
+            "close": 497.75
+          },
+          {
+            "date": "2026-09-18T00:00:00-04:00",
+            "close": 493.7799987792969
+          },
+          {
+            "date": "2026-09-21T00:00:00-04:00",
+            "close": 501.6099853515625
+          },
+          {
+            "date": "2026-09-22T00:00:00-04:00",
+            "close": 498.0
+          },
+          {
+            "date": "2026-09-23T00:00:00-04:00",
+            "close": 500.5899963378906
+          },
+          {
+            "date": "2026-09-24T00:00:00-04:00",
+            "close": 497.92999267578125
+          },
+          {
+            "date": "2026-09-25T00:00:00-04:00",
+            "close": 516.1699829101562
+          },
+          {
+            "date": "2026-09-28T00:00:00-04:00",
+            "close": 509.2200012207031
+          },
+          {
+            "date": "2026-09-29T00:00:00-04:00",
+            "close": 508.9599914550781
+          },
+          {
+            "date": "2026-09-30T00:00:00-04:00",
+            "close": 512.9000244140625
+          },
+          {
+            "date": "2026-10-01T00:00:00-04:00",
+            "close": 512.7999877929688
+          },
+          {
+            "date": "2026-10-02T00:00:00-04:00",
+            "close": 517.530029296875
+          },
+          {
+            "date": "2026-10-05T00:00:00-04:00",
+            "close": 525.1799926757812
+          },
+          {
+            "date": "2026-10-06T00:00:00-04:00",
+            "close": 529.2999877929688
+          },
+          {
+            "date": "2026-10-07T00:00:00-04:00",
+            "close": 529.760009765625
+          },
+          {
+            "date": "2026-10-08T00:00:00-04:00",
+            "close": 522.6099853515625
+          },
+          {
+            "date": "2026-10-09T00:00:00-04:00",
+            "close": 535.0700073242188
+          },
+          {
+            "date": "2026-10-12T00:00:00-04:00",
+            "close": 541.1500244140625
+          },
+          {
+            "date": "2026-10-13T00:00:00-04:00",
+            "close": 543.4500122070312
+          },
+          {
+            "date": "2026-10-14T00:00:00-04:00",
+            "close": 533.6900024414062
+          },
+          {
+            "date": "2026-10-15T00:00:00-04:00",
+            "close": 539.4400024414062
+          },
+          {
+            "date": "2026-10-16T00:00:00-04:00",
+            "close": 529.0499877929688
+          }
+        ],
+        "annualized_daily_return_volatility": 0.39237259245790923,
+        "adjustment": "yfinance auto_adjust=True"
+      }
+    }
+  },
+  "tool_execution": [
+    {
+      "tool": "get_stock_price",
+      "status": "success",
+      "source": "https://finance.yahoo.com/quote/MSFT/"
+    },
+    {
+      "tool": "get_company_overview",
+      "status": "success",
+      "source": "https://finance.yahoo.com/quote/MSFT/"
+    },
+    {
+      "tool": "get_balance_sheet",
+      "status": "success",
+      "source": "https://finance.yahoo.com/quote/MSFT/balance-sheet/"
+    },
+    {
+      "tool": "get_stock_news",
+      "status": "unavailable",
+      "source": "https://finance.yahoo.com/quote/MSFT/news/"
+    },
+    {
+      "tool": "get_historical_stock_price",
+      "status": "success",
+      "source": "https://finance.yahoo.com/quote/MSFT/history/"
+    }
+  ],
+  "warnings": [
+    "get_stock_news: source returned no records."
+  ],
+  "analysis": "## 1. Company Overview\nMicrosoft Corporation. Sector: Technology. Industry: Software - Infrastructure.\n\n## 2. Revenue / Growth\nReported total revenue (Yahoo totalRevenue): 331,839,012,864.00 USD. Reported revenue growth: 17.70%. The growth comparison period is not supplied by this tool; do not treat it as full-year revenue growth. Most recent quarter metadata: 2026-06-30T00:00:00+00:00.\n\n## 3. Profitability\nNet profit margin: 40.30%. Operating margin: 45.11%. Operating cash flow: 182,934,994,944.00 USD. Free cash flow: 16,545,500,160.00 USD. These Yahoo overview fields can have different reporting bases; consult filings for period alignment.\n\n## 4. Balance Sheet / Liquidity\nReported cash: 76,842,999,808.00 USD. Reported debt: 128,812,998,656.00 USD. Current ratio: 1.23. Annual balance sheet fiscal dates: 2026-06-30, 2025-06-30. Annual statement values and overview metrics may refer to different periods; they are not combined into new ratios.\n\n## 5. Valuation or Market Context\nLatest available daily close: 529.05 USD, dated 2026-10-16T00:00:00-04:00; not a live executable quote. Market capitalization: 3,928,485,003,264.00 USD. Trailing P/E: 29.47; forward P/E: 22.30. Annualized daily-return volatility over the retrieved history: 39.24%. P/E alone does not establish whether a stock is cheap or expensive; no peer benchmark is provided.\n\n## 6. Key Risks\n- Yahoo Finance is a secondary source; confirm material facts against original filings.\n- Reported debt exceeds cash; inspect maturity schedules and cash generation.\n- Recent news is unavailable. No conclusion about the presence or absence of adverse events can be drawn.\n- get_stock_news: source returned no records.\n\n## 7. Positive Signals\n- Reported net profit margin is positive.\n- Yahoo's reported revenue-growth field is positive; its comparison period is not supplied here.\n- Reported operating cash flow is positive.\n\n## 8. Final Analyst Summary\nReported net profitability is positive. The reported current ratio is at least one; sector context and liability maturities still require review. Reported debt exceeds reported cash; review cash generation and maturity schedules rather than inferring distress. Recent news data was unavailable, so no conclusion about adverse events can be drawn. An authorized human must review the source evidence and business context before any financial or underwriting decision.\nEducational decision support only; not investment advice or an underwriting decision.",
+  "analysis_status": "complete",
+  "model_error": null,
+  "underwriting": {
+    "label": "Academic/demo decision-support layer \u2014 not regulated underwriting advice",
+    "risk_indicators": [
+      "Reported debt exceeds cash: review maturities, cash generation and covenants."
+    ],
+    "positive_signals": [
+      "Reported current ratio is at least 1; this alone does not establish financial strength."
+    ],
+    "missing_data": [],
+    "suggested_human_review": true,
+    "review_reason": "Review the listed flags/missing data; all actual decisions require an authorized human.",
+    "scope": "No eligibility, risk score, premium, terms, appetite/capacity or bind decision is calculated. Fraud cannot be inferred from market prices or these financial ratios.",
+    "thresholds": "Illustrative, uncalibrated rules: current ratio <1; debt >cash; profit margin <0; annualized volatility >40%. Sector differences are not modeled."
+  },
+  "selected_summary_signals": [
+    "profitability",
+    "liquidity",
+    "cash_debt",
+    "news_gap",
+    "human_review"
+  ]
+}
